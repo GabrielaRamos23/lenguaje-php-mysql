@@ -12,12 +12,20 @@ include 'conexion/index.php';
 <body>
 	<?php
 		$var1 = 12;
+		echo $var1;
 		$var2 = "hola";
+		echo $var2;
 		$var3 = 14.12;
+		echo $var3;
 		$var4 = $var1.$var2;
+		echo $var4;
 		$var5 = $var4;
-
-	?>
+		echo $var5;
+		
+		
+		
+		
+			?>
 	
 </body>
 </html>
