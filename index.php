@@ -11,6 +11,11 @@ include 'conexion/index.php';
 </head>
 <body>
 	<?php
+		$var1 = 12;
+		$var2 = "hola";
+		$var3 = 14.12;
+		$var4 = $var1.$var2;
+		$var5 = $var4;
 
 	?>
 	
