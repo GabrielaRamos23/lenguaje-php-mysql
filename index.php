@@ -1,4 +1,5 @@
 <?php
+include 'conexion/index.php';
 ?>
 <!DOCTYPE html>
 <html>
